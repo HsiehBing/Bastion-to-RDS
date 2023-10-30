@@ -27,6 +27,6 @@
 <img src="images/4.png" width="500" ><img src="images/5.png" width="500" >
 
 (4) 完成後點選右下Finish即可完成相關設置，直接點選右側列表就能夠透過Bastion連線RDS
-<img src="images/6.png" width="300" >
+<img src="images/6.png" width="600" >
 
 
